@@ -1,4 +1,5 @@
 # Sample Clean Architecture Structure
+![Uploading CLEANARCHITECTURE.png…]()
 
 A .NET solution demonstrating the principles of Clean Architecture, best practices, and modular design for scalable, maintainable enterprise applications.
 
